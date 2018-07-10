@@ -1,0 +1,34 @@
+
+
+body {
+    background-color: powderblue; 
+    
+    margin: 0 auto;
+    text-align: center;
+}
+#other-form{ 
+background-color: rgb(250, 250, 250);
+  margin: 0 auto;
+  border-radius: 4px;
+  width: 75%;
+  max-width: 900px;
+  padding: 10px;
+  padding-top: 20px;
+  height: 100%;
+}
+
+.labels {
+  display: inline-block;
+  text-align: right;
+  width: 40%;
+  padding: 5px;
+  vertical-align: top;
+  margin-top: 10px;
+}
+
+.rightTab {
+  display: inline-block;
+  text-align: left;
+  width: 48%;
+  vertical-align: middle;
+}
