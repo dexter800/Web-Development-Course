@@ -1,1 +1,1 @@
-#Let's Make a Reposive image gallery using CSS and Javascript. 
+#Let's Build a Responsive image gallery using CSS and Javascript. 
